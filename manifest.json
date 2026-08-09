@@ -1,0 +1,10 @@
+{
+  "name":"Math AI — Class 7–12",
+  "short_name":"Math AI",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827",
+  "description":"Offline Class 7–12 mathematics solver. No API key required.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
